@@ -1,5 +1,5 @@
-# eBooks
-My collection of ebooks.
+# E-Books
+My collection of e-books.
 
 ## JavaScript
 * [《JavaScript高级程序设计(第四版)》](/JavaScript/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89.pdf)
