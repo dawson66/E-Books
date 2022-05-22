@@ -6,8 +6,8 @@ My collection of ebooks.
 * [《你不知道的JavaScript(上卷)》](/JavaScript/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript(%E4%B8%8A%E5%8D%B7).pdf)
 * [《你不知道的JavaScript(中卷)》](/JavaScript/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript(%E4%B8%AD%E5%8D%B7).pdf)
 * [《你不知道的JavaScript(下卷)》](/JavaScript/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript(%E4%B8%8B%E5%8D%B7).pdf)
-* [《JvaScript权威指南(第六版)》](/JavaScript/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.%E7%AC%AC%E5%85%AD%E7%89%88.pdf)
-* [《JvaScript函数式编程》](/JavaScript/JavaScript%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)
+* [《JavaScript权威指南(第六版)》](/JavaScript/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.%E7%AC%AC%E5%85%AD%E7%89%88.pdf)
+* [《JavaScript函数式编程》](/JavaScript/JavaScript%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)
 * [《正则表达式必知必会(修订版)》](/JavaScript/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A(%E4%BF%AE%E8%AE%A2%E7%89%88).pdf)
 
 ## 计算机网络
