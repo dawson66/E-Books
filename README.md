@@ -33,3 +33,4 @@ My collection of e-books.
 
 ## 软技能
 * [《代码整洁之道》](/SoftSkill/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)
+* [《穿越计算机的迷雾》](/SoftSkill/%E7%A9%BF%E8%B6%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E8%BF%B7%E9%9B%BE.pdf)
